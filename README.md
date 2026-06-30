@@ -8,8 +8,6 @@ Users can import EPUB or PDF books, read them in a clean mobile reader, and tran
 
 ---
 
-Demo
-
 <p align="center"> <a href="https://www.youtube.com/watch?v=0bvlWC1XHcM"> Watch the demo on YouTube </a> </p>
 
 Screenshots
@@ -21,8 +19,6 @@ Screenshots
   <img src="assets/screenshots/reading-original.jpg" alt="Reader screen" width="24%"> 
   <img src="assets/screenshots/reading-translated.jpg" alt="Translation screen" width="24%"> 
   </p>
-
-
 ---
 
 ## Features
