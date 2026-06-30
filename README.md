@@ -14,7 +14,7 @@ Demo
 
 Screenshots
 
-<p align="center"> 
+<p> 
   <img src="assets/screenshots/menu.jpg" alt="Library screen" width="24%"> 
   <img src="assets/screenshots/settings.jpg" alt="Settings screen" width="24%"> 
   <img src="assets/screenshots/language-settings.jpg" alt="Settings screen" width="24%">
