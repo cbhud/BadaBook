@@ -13,7 +13,6 @@ Users can import EPUB or PDF books, read them in a clean mobile reader, and tran
   <img src="assets/screenshots/language-settings.jpg" alt="Settings screen" width="24%">
   <img src="assets/screenshots/reading-translated.jpg" alt="Translation screen" width="24%"> 
   </p>
----
 
 ## Features
 
