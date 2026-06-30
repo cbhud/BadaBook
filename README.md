@@ -1,4 +1,6 @@
-# BadaBook
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%">
+</p>
 
 **BadaBook** is a mobile ebook reader prototype with AI-assisted translation, background page prefetching, and local translation caching.
 
