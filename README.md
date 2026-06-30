@@ -16,7 +16,6 @@ Screenshots
   <img src="assets/screenshots/menu.jpg" alt="Library screen" width="24%"> 
   <img src="assets/screenshots/settings.jpg" alt="Settings screen" width="24%"> 
   <img src="assets/screenshots/language-settings.jpg" alt="Settings screen" width="24%">
-  <img src="assets/screenshots/reading-original.jpg" alt="Reader screen" width="24%"> 
   <img src="assets/screenshots/reading-translated.jpg" alt="Translation screen" width="24%"> 
   </p>
 ---
