@@ -1,5 +1,5 @@
 /**
- * Core type definitions for ReadABook.
+ * Core type definitions for BadaBook.
  */
 
 export interface BookMeta {
@@ -34,10 +34,6 @@ export type TranslationState =
   | 'error';
 
 export interface AppSettings {
-  /** FreeLLMAPI router base URL, e.g. "http://192.168.1.5:3001" */
-  apiUrl: string;
-  /** Unified API key for the router. */
-  apiKey: string;
   /** Target translation language code, e.g. "sr-Latn" */
   targetLanguage: string;
   /** Reader font size in px. */
@@ -47,8 +43,6 @@ export interface AppSettings {
 }
 
 export const DEFAULT_SETTINGS: AppSettings = {
-  apiUrl: 'http://10.0.2.2:3001',
-  apiKey: 'freellmapi-change-me',
   targetLanguage: 'sr-Latn',
   fontSize: 18,
   darkMode: true,
