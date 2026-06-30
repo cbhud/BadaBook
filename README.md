@@ -6,8 +6,6 @@
 
 Users can import EPUB or PDF books, read them in a clean mobile reader, and translate pages through a configurable AI endpoint such as a self-hosted LimitlessLLM router.
 
----
-
 <p align="center"> <a href="https://www.youtube.com/watch?v=0bvlWC1XHcM"> Watch the demo on YouTube </a> </p>
 <p> 
   <img src="assets/screenshots/menu.jpg" alt="Library screen" width="24%"> 
